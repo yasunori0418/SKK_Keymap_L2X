@@ -5,8 +5,8 @@
   "define": {
     "keymap": {
       ";": "start-preedit-no-delete",
-      "l": "",
-      "L": "",
+      "l": null,
+      "L": null,
       "x": "set-input-mode-latin",
       "X": "set-mode-wide-latin"
     }

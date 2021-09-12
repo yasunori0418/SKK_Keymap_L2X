@@ -1,14 +1,14 @@
 {
   "include": [
-    "default/default"
+    "default"
   ],
   "define": {
     "rom-kana": {
-      "xa": "",
-      "xi": "",
-      "xu": "",
-      "xe": "",
-      "xo": "",
+      "xa": null,
+      "xi": null,
+      "xu": null,
+      "xe": null,
+      "xo": null,
       "la": ["", "ぁ"],
       "li": ["", "ぃ"],
       "lu": ["", "ぅ"],
