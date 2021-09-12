@@ -1,0 +1,14 @@
+{
+  "include": [
+    "default/katakana"
+  ],
+  "define": {
+    "keymap": {
+      ";": "start-preedit-no-delete",
+      "l": "",
+      "L": "",
+      "x": "set-input-mode-latin",
+      "X": "set-input-mode-wide-latin"
+    }
+  }
+}
