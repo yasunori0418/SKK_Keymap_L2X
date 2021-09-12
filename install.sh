@@ -1,6 +1,6 @@
 #!/bin/bash
 
-config_dir=$HOME/.config/libskk/rules/my_skkey_map/
+config_dir=$HOME/.config/libskk/rules/L2X/
 
 mkdir -p $config_dir
 cp -r keymap $config_dir
