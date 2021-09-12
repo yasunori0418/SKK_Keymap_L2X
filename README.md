@@ -4,7 +4,7 @@
 * It is set to use l by disabling the one that uses x in romaji.
 * Use x to switch to alphabetic characters.
 * It's easy, but I have an installation script. Copy only the files you need to `$HOME/.config/libskk/rules/`.
-* The basic settings use ueno/libskk default and Sticky Shift.
+* The basic settings use [ueno/libskk](https://github.com/ueno/libskk) default and Sticky Shift.
 
 ## Install
 ```terminal
