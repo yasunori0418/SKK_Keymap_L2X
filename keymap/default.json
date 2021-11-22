@@ -2,7 +2,7 @@
   "include": [
     "default/default"
   ],
-  "difine": {
+  "define": {
     "keymap": {
       "\\": null
     }
